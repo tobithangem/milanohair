@@ -917,6 +917,7 @@ section
 	min-width: 180px;
 	padding-left: 25px;
 	padding-right: 25px;
+	border-bottom: 1px solid antiquewhite;
 }
 .banner_category a
 {
